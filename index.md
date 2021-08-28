@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Projects
 
-You can use the [editor on GitHub](https://github.com/shahkashish/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<hr />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. A Basic Website for a automobile showroom
 
-### Markdown
+Exe link : [Github](https://github.com/shahkashish/temp) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Language used : HTML
 
-```markdown
-Syntax highlighted code block
+My first website i made in 9th class for my father's showroom
 
-# Header 1
-## Header 2
-### Header 3
+A very basic html
 
-- Bulleted
-- List
+<hr />
 
-1. Numbered
-2. List
+## 2. Guessing Game (Opposite to that of luv's playlist)
 
-**Bold** and _Italic_ and `Code` text
+Exe link : [Github](https://github.com/shahkashish/projects/blob/main/gussing_game/guessing_game_user.exe) 
+Code link : [Github](https://github.com/shahkashish/projects/blob/main/gussing_game/guessing_game_user.cpp)
 
-[Link](url) and ![Image](src)
-```
+Language used : C++
+First CPP game. just decide a number and computer will keep guessing and just do as directed in the application and you'll get to know.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<hr />
 
-### Jekyll Themes
+## 3. Mini Project- Smart Doorbell(sem- 3)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahkashish/projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Documentation link : [Google Drive](https://drive.google.com/drive/folders/1rzZPi5tPrFP9_8STlzdeiBJq2zZvsNgn?usp=sharing)
 
-### Support or Contact
+This system is designed to keep a track of visitors as well as to know who is on the door without actually opening the door. Our smart doorbell works on facial recognition and voice assistance by inducing AI in your doorbells. It can give messages to the ones whom you wanted to attend but you couldn’t because you were out and cannot attend their calls!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Updates:
+
+- its under progress
+- Deadline - 1st january 2022
+
+<hr />
+
+## 4. ELECTRICA-20(Automatic Hand Sanitizer Dispenser)
+
+VIDEO LINK : [Google Drive](https://drive.google.com/file/d/1V4DoVPmraWVinj0igkYky7GqJW6w7E4V/view?usp=sharing)
+
+It is a Sanitizer vending machine which dispenses sanitizer without any contact. you just have to place your hand infront of the machine and boom!! you have sanitized your hands!!
+
+
+
+
+
+
+<hr />
+
+
+## How to download?
+
+- _Tap on the link provided for its executable file_
+
+- _Download .exe via GitHub/Gdrive_
+
+- _They are just scripts converted to executable codes and not Viruses_
+
+- _For Windows defender notification, go to more info and tap Run Anyway_
+
+- _For help/queries : [taaha.m@somaiya.edu](mailto:taaha.m@somaiya.edu)_
+
+
+
+<hr />
