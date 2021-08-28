@@ -62,7 +62,7 @@ It is a Sanitizer vending machine which dispenses sanitizer without any contact.
 
 - _For Windows defender notification, go to more info and tap Run Anyway_
 
-- _For help/queries : [taaha.m@somaiya.edu](mailto:taaha.m@somaiya.edu)_
+- _For help/queries : [shahkashish.in@gmail.com](shahkashish.in@gmail.com)_
 
 
 
